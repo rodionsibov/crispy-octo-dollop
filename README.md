@@ -1,5 +1,7 @@
 # quiz
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/be809f56-e488-427c-b29f-0db05dbedfa5/deploy-status)](https://app.netlify.com/sites/silly-lumiere-d178d2/deploys)
+
 ## Project setup
 ```
 npm install
